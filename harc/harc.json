@@ -1,0 +1,17 @@
+{
+  "projects": [
+    {
+      "name": "mdp_api",
+      "repository": "https://github.com/janripke/harc.git",
+      "daemon": "elsevierd",
+      "technology": "python"
+    }
+  ],
+  "dev": [
+    {
+      "name": "mdp_api",
+      "server": "http://localhost:5001"
+    }
+  ]
+}
+
